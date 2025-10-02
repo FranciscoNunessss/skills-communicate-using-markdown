@@ -17,3 +17,9 @@ def say_hello():
     print("Hello, GitHub!")
 
 say_hello()
+
+## My task list
+- [x] Finish Step 1: Headers
+- [x] Finish Step 2: Image
+- [x] Finish Step 3: Code example
+- [ ] Finish Step 4: Task list
